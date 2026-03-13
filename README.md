@@ -1,7 +1,7 @@
 # Predicting Human Decision-Making in Autonomous Vehicle Moral Dilemmas
 
 > Advanced Machine Learning (AML) 수업 팀 프로젝트 | Team 12  
-> Aileen Li · Alex Edwards · Carol Le · **Mikyung Oh** · Radha Pawar
+> Aileen Li · Alex Edwards · Carol Le · **Aubrey Oh** · Radha Pawar
 
 ---
 
